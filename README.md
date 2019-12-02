@@ -2,16 +2,16 @@
 
 ### Three Principles
 
-[] Single source of truth
-[] State is read-only
-[] Changes are made with pure functions (https://www.youtube.com/watch?v=dZ41D6LDSBg)
+- [ ] Single source of truth
+- [ ] State is read-only
+- [ ] Changes are made with pure functions (https://www.youtube.com/watch?v=dZ41D6LDSBg)
 
 ### Redux Constraints
 
-[] Single State Tree (the State is an Object)
-[] Actions Describe Updates (Actions are Objects)
-[] Reducers Apply Updates (Reducers are Functions)
-[] Explain Data Flow (Compare redux to neurotransmission)
+- [ ] Single State Tree (the State is an Object)
+- [ ] Actions Describe Updates (Actions are Objects)
+- [ ] Reducers Apply Updates (Reducers are Functions)
+- [ ] Explain Data Flow (Compare redux to neurotransmission)
 
 ## 👾Demo (Live Coding)👾
 
