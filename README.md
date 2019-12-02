@@ -35,8 +35,8 @@
 
 ### Bonus Tip: Debugging Workflow
 
-[] Log actions and states
-[] find the bad state
-[] check the action
-[] fix the reducer
-[] write a test (Don't worry about this one for now!)
+- [ ] Log actions and states
+- [ ] find the bad state
+- [ ] check the action
+- [ ] fix the reducer
+- [ ] write a test (Don't worry about this one for now!)
