@@ -39,4 +39,4 @@
 [] find the bad state
 [] check the action
 [] fix the reducer
-[] write a test (Don't worry about this one for now)
+[] write a test (Don't worry about this one for now!)
